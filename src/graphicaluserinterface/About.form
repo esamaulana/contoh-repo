@@ -87,7 +87,7 @@
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="profilePict" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
-                  <Component id="Isi" max="32767" attributes="0"/>
+                  <Component id="Isi" pref="149" max="32767" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="FB" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
@@ -147,7 +147,7 @@
         <Component class="javax.swing.JLabel" name="profilePict">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Sarif Hidayat\Documents\NetBeansProjects\graphicalUserInterface\files\profile.jpeg"/>
+              <Image iconType="3" name="/iconPack/profile.jpeg"/>
             </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">

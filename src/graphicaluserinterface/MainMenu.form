@@ -136,7 +136,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Sarif Hidayat\Documents\NetBeansProjects\graphicalUserInterface\files\3.png"/>
+                  <Image iconType="3" name="/iconPack/3.png"/>
                 </Property>
               </Properties>
               <Events>
@@ -152,7 +152,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Sarif Hidayat\Documents\NetBeansProjects\graphicalUserInterface\files\0.png"/>
+                  <Image iconType="3" name="/iconPack/0.png"/>
                 </Property>
               </Properties>
               <Events>
@@ -168,7 +168,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Sarif Hidayat\Documents\NetBeansProjects\graphicalUserInterface\files\1.png"/>
+                  <Image iconType="3" name="/iconPack/1.png"/>
                 </Property>
               </Properties>
               <Events>
@@ -184,7 +184,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Sarif Hidayat\Documents\NetBeansProjects\graphicalUserInterface\files\about.png"/>
+                  <Image iconType="3" name="/iconPack/about.png"/>
                 </Property>
               </Properties>
               <Events>
@@ -200,7 +200,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Sarif Hidayat\Documents\NetBeansProjects\graphicalUserInterface\files\logout.png"/>
+                  <Image iconType="3" name="/iconPack/logout.png"/>
                 </Property>
               </Properties>
               <Events>
@@ -216,7 +216,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Sarif Hidayat\Documents\NetBeansProjects\graphicalUserInterface\files\2.png"/>
+                  <Image iconType="3" name="/iconPack/2.png"/>
                 </Property>
               </Properties>
               <Events>

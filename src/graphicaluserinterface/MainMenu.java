@@ -107,7 +107,7 @@ public class MainMenu extends javax.swing.JFrame {
 
         contohIconButton.setBackground(new java.awt.Color(0, 0, 0));
         contohIconButton.setForeground(new java.awt.Color(255, 255, 255));
-        contohIconButton.setIcon(new javax.swing.ImageIcon("C:\\Users\\Sarif Hidayat\\Documents\\NetBeansProjects\\graphicalUserInterface\\files\\3.png")); // NOI18N
+        contohIconButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconPack/3.png"))); // NOI18N
         contohIconButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 contohIconButtonActionPerformed(evt);
@@ -116,7 +116,7 @@ public class MainMenu extends javax.swing.JFrame {
 
         homeIconButton.setBackground(new java.awt.Color(0, 0, 0));
         homeIconButton.setForeground(new java.awt.Color(255, 255, 255));
-        homeIconButton.setIcon(new javax.swing.ImageIcon("C:\\Users\\Sarif Hidayat\\Documents\\NetBeansProjects\\graphicalUserInterface\\files\\0.png")); // NOI18N
+        homeIconButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconPack/0.png"))); // NOI18N
         homeIconButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 homeIconButtonActionPerformed(evt);
@@ -125,7 +125,7 @@ public class MainMenu extends javax.swing.JFrame {
 
         swingMenusIconButton.setBackground(new java.awt.Color(0, 0, 0));
         swingMenusIconButton.setForeground(new java.awt.Color(255, 255, 255));
-        swingMenusIconButton.setIcon(new javax.swing.ImageIcon("C:\\Users\\Sarif Hidayat\\Documents\\NetBeansProjects\\graphicalUserInterface\\files\\1.png")); // NOI18N
+        swingMenusIconButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconPack/1.png"))); // NOI18N
         swingMenusIconButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 swingMenusIconButtonActionPerformed(evt);
@@ -134,7 +134,7 @@ public class MainMenu extends javax.swing.JFrame {
 
         aboutIconButton.setBackground(new java.awt.Color(0, 0, 0));
         aboutIconButton.setForeground(new java.awt.Color(255, 255, 255));
-        aboutIconButton.setIcon(new javax.swing.ImageIcon("C:\\Users\\Sarif Hidayat\\Documents\\NetBeansProjects\\graphicalUserInterface\\files\\about.png")); // NOI18N
+        aboutIconButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconPack/about.png"))); // NOI18N
         aboutIconButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 aboutIconButtonActionPerformed(evt);
@@ -143,7 +143,7 @@ public class MainMenu extends javax.swing.JFrame {
 
         logoutIconButton.setBackground(new java.awt.Color(0, 0, 0));
         logoutIconButton.setForeground(new java.awt.Color(255, 255, 255));
-        logoutIconButton.setIcon(new javax.swing.ImageIcon("C:\\Users\\Sarif Hidayat\\Documents\\NetBeansProjects\\graphicalUserInterface\\files\\logout.png")); // NOI18N
+        logoutIconButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconPack/logout.png"))); // NOI18N
         logoutIconButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 logoutIconButtonActionPerformed(evt);
@@ -152,7 +152,7 @@ public class MainMenu extends javax.swing.JFrame {
 
         swingContainIconButton.setBackground(new java.awt.Color(0, 0, 0));
         swingContainIconButton.setForeground(new java.awt.Color(255, 255, 255));
-        swingContainIconButton.setIcon(new javax.swing.ImageIcon("C:\\Users\\Sarif Hidayat\\Documents\\NetBeansProjects\\graphicalUserInterface\\files\\2.png")); // NOI18N
+        swingContainIconButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconPack/2.png"))); // NOI18N
         swingContainIconButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 swingContainIconButtonActionPerformed(evt);

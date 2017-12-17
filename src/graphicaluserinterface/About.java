@@ -59,7 +59,7 @@ public class About extends javax.swing.JFrame {
         jTextArea1.setBorder(null);
         Isi.setViewportView(jTextArea1);
 
-        profilePict.setIcon(new javax.swing.ImageIcon("C:\\Users\\Sarif Hidayat\\Documents\\NetBeansProjects\\graphicalUserInterface\\files\\profile.jpeg")); // NOI18N
+        profilePict.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconPack/profile.jpeg"))); // NOI18N
         profilePict.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(255, 255, 255), 2, true));
 
         Title.setBackground(new java.awt.Color(0, 0, 0));
@@ -101,7 +101,7 @@ public class About extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(profilePict)
                 .addGap(11, 11, 11)
-                .addComponent(Isi)
+                .addComponent(Isi, javax.swing.GroupLayout.DEFAULT_SIZE, 149, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(mainPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(FB, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
